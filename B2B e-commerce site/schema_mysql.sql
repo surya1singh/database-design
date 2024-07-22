@@ -1,6 +1,7 @@
-drop database b2b1;
-create database b2b1;
-use b2b1;
+drop database b2b;
+create database b2b;
+use b2b;
+
 CREATE TABLE companies (
   id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
   cuit int NOT NULL,
