@@ -40,7 +40,9 @@ Second for products and catalog items
 * catalogs
 * catalog_items
 * discounts
+
   Assumption: one product belongs to one category. for many-to-many relationships, another table will be required.
+
 
 Then there will be users
 * users
@@ -53,4 +55,5 @@ Lastly related to orders
 * payments
 * shipment_tracking
 
-  This is the basic conceptual data design
+
+This is the basic conceptual data design
